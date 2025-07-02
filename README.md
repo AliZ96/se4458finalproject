@@ -20,4 +20,4 @@ Bu proje, kariyer.net benzeri bir iş ilanı platformudur. Backend .NET 8 ve Mon
 
 ---
 
-**Not:** Projenin backend tarafı eksiksiz ve stabil çalışmaktadır. Frontend ve diğer ek özellikler ilerleyen süreçte tamamlanacaktır. 
+**Not:** Projenin backend tarafı eksiksiz ve stabil çalışmaktadır. Frontend ve diğer ek özellikler yetişmedi. 
