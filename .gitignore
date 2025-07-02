@@ -1,0 +1,31 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# React/Node
+client/node_modules/
+client/build/
+client/.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Sensitive config
+appsettings.*.json
+!appsettings.json
+SE4458FinalProject/appsettings.*.json
+!SE4458FinalProject/appsettings.json
+
+# Others
+*.swp
+*.tmp 
